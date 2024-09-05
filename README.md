@@ -8,7 +8,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
  - Google Colab
 
 # Credits
-Zach Mason
-Daniel Ference
-Chat GPT for troubleshooting
+ - Zach Mason
+ - Daniel Ference
+ - Chat GPT for troubleshooting
 
